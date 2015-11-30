@@ -1,0 +1,43 @@
+.films {
+float: left;
+width: 20%;
+text-align: center;
+margin-left: 20%;
+margin-right: 10%;
+margin-top: 15px;
+}
+.series {
+float: right;
+width: 20%;
+text-align: center;
+margin-left: 10%;
+margin-right: 20%;
+margin-top: 15px;
+}
+h2 {
+padding-bottom: 5px;
+}
+#stars-wars {
+background-color: rgb(187, 187, 193);
+}
+#stars-wars img {
+width: 100%;
+}
+#frankenstein {
+background-color: rgb(187, 187, 193);
+}
+#frankenstein img{
+width: 100%;
+}
+#legend-of-tomorrow {
+background-color: rgb(187, 187, 193);
+}
+#legend-of-tomorrow img {
+width: 100%;
+}
+#jessica-jones {
+background-color: rgb(187, 187, 193);
+}
+#jessica-jones img {
+width: 100%;
+}
